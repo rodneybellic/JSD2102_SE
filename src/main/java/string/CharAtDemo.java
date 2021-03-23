@@ -8,7 +8,6 @@ public class CharAtDemo {
         char c = str.charAt(4);
         System.out.println(c);
 
-        System.out.println(111111);
 
 
 
